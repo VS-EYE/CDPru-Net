@@ -1,0 +1,5 @@
+1. https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+2. https://www.kaggle.com/datasets/saifurrahmanshatil/multiclass-chest-xray-disease-dataset
+3. Khan, S.U.R., et al., Deep hybrid model for Mpox disease diagnosis from skin lesion images. International Journal of Imaging Systems and Technology, 2024. 34(2): p. e23044.
+4. Khan, S.U.R. and S. Asif, Oral cancer detection using feature-level fusion and novel self-attention mechanisms. Biomedical Signal Processing and Control, 2024. 95: p. 106437.
+5. Khan, S.U.R., et al., GLNET: global–local CNN's-based informed model for detection of breast cancer categories from histopathological slides. The Journal of Supercomputing, 2023: p. 1-33.
